@@ -25,4 +25,6 @@ def lead():
     print ("Stranger:Player:" + str(player4) + "  Score:" + str(four))
     print ("Stranger:Player:" + str(player5) + "  Score:" + str(five))
     input ("")
+    print("Refresh:")
+    lead()
 lead()
